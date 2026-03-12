@@ -14,3 +14,4 @@
 || Практика. SVM |  [</> Ноутбук занятия](https://github.com/Nina-Konovalova/Sirius_2026/blob/main/SVM/practice/SVM_clean.ipynb)  | Нина Коновалова    | 
 | 11 марта (ср)| Лекция + Практика. Деревья и ансамбли. Bias–variance tradeoff| [</> Ноутбук занятия](https://github.com/Nina-Konovalova/Sirius_2026/blob/main/Trees_boost/practice/practice_trees_ensembles.ipynb) | Петр Лисов, Максим Машталер| 
 || Лекция + Практика. Градиентный Бустинг | [</> Ноутбук занятия](https://github.com/Nina-Konovalova/Sirius_2026/blob/main/Trees_boost/practice/practice_boosting_catboost.ipynb)  |Петр Лисов, Максим Машталер | 
+| 12 марта (чт)| Лекция + Практика. Валидация и борьба с переобучением. Особенности моделей| | Петр Лисов, Алексей Ребриков | 

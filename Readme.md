@@ -17,3 +17,8 @@
 | 12 марта (чт)| Лекция + Практика. Валидация и борьба с переобучением. Особенности моделей|  [</> Практика по валидации](https://github.com/Nina-Konovalova/Sirius_2026/blob/main/Pipeline/practice/cross_validation.ipynb), [</> Практика по моделям](https://github.com/Nina-Konovalova/Sirius_2026/blob/main/Pipeline/practice/pipeline_and_models.ipynb)  | Петр Лисов, Алексей Ребриков | 
 
 ##  2. Kaggle-соревнования:
+
+|Даты сореванования| Название | Ссылка | 
+|----|--------------|-----------|
+| 9-11 марта | Bank issues for Sirius 26 | [![Solve on Kaggle](icon/kaggle.svg)](https://www.kaggle.com/competitions/bank-issues-for-sirius-26) |
+| 9-12 марта | SIRIUS 2026 Chess Competition | [![Solve on Kaggle](icon/kaggle.svg)]([https://www.kaggle.com/competitions/bank-issues-for-sirius-26](https://www.kaggle.com/competitions/sirius-2026-chess-competition)) |

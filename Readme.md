@@ -18,7 +18,7 @@
 
 ##  2. Kaggle-соревнования:
 
-|Даты сореванования| Название | Ссылка | 
+|Даты соревнования| Название | Ссылка | 
 |----|--------------|-----------|
 | 9-11 марта | Bank issues for Sirius 26 | [![Solve on Kaggle](icon/kaggle.svg)](https://www.kaggle.com/competitions/bank-issues-for-sirius-26) |
 | 9-12 марта | SIRIUS 2026 Chess Competition | [![Solve on Kaggle](icon/kaggle.svg)](https://www.kaggle.com/competitions/sirius-2026-chess-competition) |

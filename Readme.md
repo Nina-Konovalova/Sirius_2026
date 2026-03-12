@@ -1,7 +1,7 @@
 # Сборы к ВсОШ по Информатике (Искусственный интеллект)
 > [Мартовская образовательная программа по информатике, ОЦ Сириус](https://sochisirius.ru/obuchenie/nauka/smena2295/10752)
 
-Над занятиями работали: [Матвей Аношин](https://github.com/g42alaxy), [Нина Коновалова](https://github.com/Nina-Konovalova), Петр Лисов, [Максим Машталер](https://github.com/Ne1troN), Валерия Набатова и [Алексей Ребриков](https://github.com/NoblFriend). 
+Над занятиями работали: [Матвей Аношин](https://github.com/g42alaxy), [Нина Коновалова](https://github.com/Nina-Konovalova), Петр Лисов, [Максим Машталер](https://github.com/Ne1troN), [Валерия Набатова](https://github.com/veilanexyz) и [Алексей Ребриков](https://github.com/NoblFriend). 
 
 ##  1. Материалы занятий:
 

@@ -14,6 +14,6 @@
 || Практика. SVM |  [</> Ноутбук занятия](https://github.com/Nina-Konovalova/Sirius_2026/blob/main/SVM/practice/SVM_clean.ipynb)  | Нина Коновалова    | 
 | 11 марта (ср)| Лекция + Практика. Деревья и ансамбли. Bias–variance tradeoff| [</> Ноутбук занятия](https://github.com/Nina-Konovalova/Sirius_2026/blob/main/Trees_boost/practice/practice_trees_ensembles.ipynb) | Петр Лисов, Максим Машталер| 
 || Лекция + Практика. Градиентный Бустинг | [</> Ноутбук занятия](https://github.com/Nina-Konovalova/Sirius_2026/blob/main/Trees_boost/practice/practice_boosting_catboost.ipynb)  |Петр Лисов, Максим Машталер | 
-| 12 марта (чт)| Лекция + Практика. Валидация и борьба с переобучением. Особенности моделей| | Петр Лисов, Алексей Ребриков | 
+| 12 марта (чт)| Лекция + Практика. Валидация и борьба с переобучением. Особенности моделей|  [</> Практика по валидации](https://github.com/Nina-Konovalova/Sirius_2026/blob/main/Pipeline/practice/cross_validation.ipynb), [</> Практика по моделям](https://github.com/Nina-Konovalova/Sirius_2026/blob/main/Pipeline/practice/pipeline_and_models.ipynb)  | Петр Лисов, Алексей Ребриков | 
 
 ##  2. Kaggle-соревнования:

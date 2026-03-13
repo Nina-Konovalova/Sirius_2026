@@ -21,6 +21,8 @@
 | 11 марта (ср)| Лекция + Практика. Деревья и ансамбли. Bias–variance tradeoff| [</> Ноутбук занятия](https://github.com/Nina-Konovalova/Sirius_2026/blob/main/Trees_boost/practice/practice_trees_ensembles.ipynb) | Петр Лисов, Максим Машталер| 
 || Лекция + Практика. Градиентный Бустинг | [</> Ноутбук занятия](https://github.com/Nina-Konovalova/Sirius_2026/blob/main/Trees_boost/practice/practice_boosting_catboost.ipynb)  |Петр Лисов, Максим Машталер | 
 | 12 марта (чт)| Лекция + Практика. Валидация и борьба с переобучением. Особенности моделей|  [</> Практика по валидации](https://github.com/Nina-Konovalova/Sirius_2026/blob/main/Pipeline/practice/cross_validation.ipynb), [</> Практика по моделям](https://github.com/Nina-Konovalova/Sirius_2026/blob/main/Pipeline/practice/pipeline_and_models.ipynb)  | Петр Лисов, Алексей Ребриков | 
+| 13 марта (пт)| Лекция. Кластеризация: k-means и компания.|  [</> Практика по валидации](https://github.com/Nina-Konovalova/Sirius_2026/blob/main/Clusterisation/lecture/clusterisation_lecture_standup_Sirius2026.pdf)  | Максим Машталер, Алексей Ребриков |
+|| Практика. Кластеризация: k-means и компания. DBSCAN на задачах NLP и CV домена. Метрики задач. кластеризации. Эксперименты с понижением размерности | [</> Ноутбук занятия](https://github.com/Nina-Konovalova/Sirius_2026/blob/main/Clusterisation/practice/clusterisation_practise.ipynb)  |Нина Коновалова, Валерия Набатова | 
 
 ##  2. Kaggle-соревнования:
 

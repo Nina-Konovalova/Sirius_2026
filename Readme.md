@@ -1,7 +1,11 @@
-# Сборы к ВсОШ по Информатике (Искусственный интеллект)
+# Сборы к ВсОШ по Информатике (Искусственный интеллект) [Блок ML, 8-13 марта 2026]
 > [Мартовская образовательная программа по информатике, ОЦ Сириус](https://sochisirius.ru/obuchenie/nauka/smena2295/10752)
 
-Над занятиями работали: [Матвей Аношин](https://github.com/g42alaxy), [Нина Коновалова](https://github.com/Nina-Konovalova), Петр Лисов, [Максим Машталер](https://github.com/Ne1troN), [Валерия Набатова](https://github.com/veilanexyz) и [Алексей Ребриков](https://github.com/NoblFriend). 
+---
+
+#### Над занятиями работали: [Матвей Аношин](https://github.com/g42alaxy), [Нина Коновалова](https://github.com/Nina-Konovalova), Петр Лисов, [Максим Машталер](https://github.com/Ne1troN), [Валерия Набатова](https://github.com/veilanexyz) и [Алексей Ребриков](https://github.com/NoblFriend). 
+
+---
 
 ## 0. Хорошие материалы к глубокому изучению 
 1. [Учебник по машинному обучению от Яндекса](https://education.yandex.ru/handbook/ml)
@@ -22,7 +26,7 @@
 || Лекция + Практика. Градиентный Бустинг | [</> Ноутбук занятия](https://github.com/Nina-Konovalova/Sirius_2026/blob/main/Trees_boost/practice/practice_boosting_catboost.ipynb)  |Петр Лисов, Максим Машталер | 
 | 12 марта (чт)| Лекция + Практика. Валидация и борьба с переобучением. Особенности моделей|  [</> Практика по валидации](https://github.com/Nina-Konovalova/Sirius_2026/blob/main/Pipeline/practice/cross_validation.ipynb), [</> Практика по моделям](https://github.com/Nina-Konovalova/Sirius_2026/blob/main/Pipeline/practice/pipeline_and_models.ipynb)  | Петр Лисов, Алексей Ребриков | 
 | 13 марта (пт)| Лекция. Кластеризация: k-means и компания.|  [</> Слайды с лекции ](https://github.com/Nina-Konovalova/Sirius_2026/blob/main/Clusterisation/lecture/clusterisation_lecture_standup_Sirius2026.pdf)  | Максим Машталер, Алексей Ребриков |
-|| Практика. Кластеризация: k-means и компания. DBSCAN на задачах NLP и CV домена. Метрики задач. кластеризации. Эксперименты с понижением размерности | [</> Ноутбук занятия](https://github.com/Nina-Konovalova/Sirius_2026/blob/main/Clusterisation/practice/clusterisation_practice.ipynb)  |Нина Коновалова, Валерия Набатова | 
+|| Практика. Кластеризация: k-means и компания. DBSCAN на задачах NLP и CV домена. Метрики задач кластеризации. Эксперименты с понижением размерности. | [</> Ноутбук занятия](https://github.com/Nina-Konovalova/Sirius_2026/blob/main/Clusterisation/practice/clusterisation_practice.ipynb)  |Нина Коновалова, Валерия Набатова | 
 
 ##  2. Kaggle-соревнования:
 

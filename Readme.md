@@ -3,6 +3,10 @@
 
 Над занятиями работали: [Матвей Аношин](https://github.com/g42alaxy), [Нина Коновалова](https://github.com/Nina-Konovalova), Петр Лисов, [Максим Машталер](https://github.com/Ne1troN), [Валерия Набатова](https://github.com/veilanexyz) и [Алексей Ребриков](https://github.com/NoblFriend). 
 
+## 0. Хорошие материалы к глубокому изучению 
+1. [Учебник по машинному обучению от Яндекса](https://education.yandex.ru/handbook/ml)
+2. [Цифровой учебник по вычислительной математике (стоящей за ML)](https://toomanydigits.online/#)
+
 ##  1. Материалы занятий:
 
 |День| Название Занятия | Материалы | Преподаватели |
